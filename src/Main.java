@@ -5,6 +5,7 @@ public class Main {
     }
 
     public static void task1() {
-        System.out.println("Task 1");
+        System.out.println("Ондодум");
+
     }
 }
